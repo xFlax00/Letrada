@@ -9,4 +9,4 @@ Tenhos os seguintes tópicos para montar:
 - Mídias(As postagens do instagram do projeto)
 - Siga-nos(As redes sociais + um formulário)
 
-Estou desenvolvendo esse site com meus conhecimentos prévios, tenho encontrado algumas barreiras, porém quando passamos por elas se tornam a melhor parte. &#x1F609
+Estou desenvolvendo esse site com meus conhecimentos prévios, tenho encontrado algumas barreiras, porém quando passamos por elas se tornam a melhor parte. &#1F609
