@@ -50,32 +50,60 @@ img{
     background-color: #C7C7C7;
     padding: 4em;
 }
-section input{
+.btn{
     color: #fff;
     margin-top: 4em;
     padding: 0.8em 2.5em;
     background-color: #326DA1;
     border: 0;
 }
-section input:hover{
+.btn:hover{
     background-color: #6e16b6d3;
     cursor: pointer;
     transition: 0.8s;
 }
 #about{
-    background-color: #f1f1f0;
-    width: 90%;
+    position: relative;
+    overflow: hidden;
+    background-color: #dfdfd9;
+    width: 80%;
     margin: auto;
-    display: flex;
-    justify-content: center;
+    /* display: flex;
+    justify-content: center; */
 }
-#about div, img{
+#about div{
+    width: 30%;
+    text-align: justify;
+    float: left;
+    position: absolute;
+    top: 52%;
+    left: 10%;
+
+    transform: translateY(-50%);
+}
+#about p{
+    text-indent: 1.5em;
+}
+#about img{
+    float: right;
+}
+#about span{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+#about .btn{
+    position: relative;
+    left: 8em;
+    bottom: 2em;
+}
+/* #about div, img{
     display: block;
     margin: 0 auto;
 }
 #about p{
     width: 50%;
-}
+} */
 #info{
     width: 45%;
     height: 100%;
