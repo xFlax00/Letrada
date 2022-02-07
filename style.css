@@ -62,3 +62,21 @@ section input:hover{
     cursor: pointer;
     transition: 0.8s;
 }
+#about{
+    background-color: #f1f1f0;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+#about div, img{
+    display: block;
+    margin: 0 auto;
+}
+#about p{
+    width: 50%;
+}
+#info{
+    width: 45%;
+    height: 100%;
+}
